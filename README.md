@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### ⚡ Works and Projects ⚡
 - Current Member of <b>Amounimous</b> 💛📊
 - Former Member of <b>PHOS4</b> 💡
-- Video Editor of <a href="https://www.youtube.com/channel/UCy7577N6wWz_R8zSX4c5iPg" target="_blank">Luiz de Xangô</a> ⚔ 
+- Video Editor of <a target="_blank" href="https://www.youtube.com/channel/UCy7577N6wWz_R8zSX4c5iPg">Luiz de Xangô</a> ⚔ 
 - Developing Arkase (Akz Project) 🏆
 
 ### ☄ You can know more about me at.. ☄
