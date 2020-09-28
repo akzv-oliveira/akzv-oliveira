@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 
 São Paulo, Brazil 🌎
 
-![akzv-oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira&theme=midnight-purple&show_icons=true);
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akzv-oliveira)](https://github.com/akzv-oliveira/github-readme-stats);
+![akzv-oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira&theme=midnight-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akzv-oliveira)](https://github.com/akzv-oliveira/github-readme-stats)
