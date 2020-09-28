@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 🎯 Focused in Programming
 
 ### ⚡ Works and Projects ⚡
-- Current Member of Amounimous 💛📊
-- Former Member of PHOS4 💡
+- Current Member of <b>Amounimous</b> 💛📊
+- Former Member of <b>PHOS4</b> 💡
 - Video Editor of <a href="https://www.youtube.com/channel/UCy7577N6wWz_R8zSX4c5iPg">Luiz de Xangô</a> ⚔ 
 - Developing Arkase (Akz Project) 🏆
 
