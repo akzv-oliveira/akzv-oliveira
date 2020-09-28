@@ -36,4 +36,4 @@ São Paulo, Brazil 🌎
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akzv-oliveira&layout=compact)](https://github.com/akzv-oliveira/github-readme-stats)
 
-![akzv-oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira&show_icons=true)
+[![akzv-oliveira github stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira)](https://github.com/akzv-oliveira/github-readme-stats)
