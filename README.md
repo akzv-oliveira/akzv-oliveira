@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 - 🕊 <a href="https://www.instagram.com/akzvini/?hl=pt-br" target="_blank">Instagram</a>
 
 
+
 São Paulo, Brazil 🌎
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akzv-oliveira&layout=compact)](https://github.com/akzv-oliveira/github-readme-stats)
 
-![akzv-oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira&show_icons=true&theme=midnight-purple)
+![akzv-oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira&show_icons=true)
