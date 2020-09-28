@@ -16,15 +16,21 @@ Here are some ideas to get you started:
 -->
 
 - 💻 Studying at <a href="http://www.digitalschool.com.br/faculdade/"> Bandtec Digital School </a>
+- 📚 Gratuated in IT on <a href="https://etecjardimangela.com.br/2/"> Etec Jardim Ângela </a>
 - 📌 18 years old
 - 🎯 Focused in Programming
 
-### Works and Projects ⚡
+### ⚡ Works and Projects ⚡
 - Current Member of Amounimous 💛📊
 - Former Member of PHOS4 💡
-- Video Editor of <a href="https://www.youtube.com/channel/UCy7577N6wWz_R8zSX4c5iPg">Luiz de Xangô </a> 🦁
+- Video Editor of <a href="https://www.youtube.com/channel/UCy7577N6wWz_R8zSX4c5iPg">Luiz de Xangô</a> ⚔ 
 - Developing Arkase (Akz Project) 🏆
 
-### You can know more about me at.. ☄
+### ☄ You can know more about me at.. ☄
 - 💼 <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-9982a419a/">LinkedIn</a>
 - 🕊 <a href="https://www.instagram.com/akzvini/?hl=pt-br">Instagram</a>
+
+
+São Paulo, Brazil 🌎
+
+![akzv-oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira&show_icons=true)
