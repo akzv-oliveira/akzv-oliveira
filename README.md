@@ -1,4 +1,4 @@
-### Hi there 👋
+### Pleasure, Vinícius Oliveira 🦅
 
 <!--
 **akzv-oliveira/akzv-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 Studying at <a href="http://www.digitalschool.com.br/faculdade/"> Bandtec Digital School </a>
+- 📌 18 years old
+- 🎯 Focused in Programming
