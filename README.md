@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 - 💼 <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-9982a419a/" target="_blank">LinkedIn</a>
 - 🕊 <a href="https://www.instagram.com/akzvini/?hl=pt-br" target="_blank">Instagram</a>
 
-<br>
+
 São Paulo, Brazil 🌎
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akzv-oliveira&layout=compact)](https://github.com/akzv-oliveira/github-readme-stats)
 
-[![akzv-oliveira github stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira)](https://github.com/akzv-oliveira/github-readme-stats)
+[![akzv-oliveira github stats](https://github-readme-stats.vercel.app/api?username=akzv-oliveira)](https://github.com/anuraghazra/github-readme-stats)
