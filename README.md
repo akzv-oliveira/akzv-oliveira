@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Current Member of <b>Amounimous</b> 💛📊
 - Former Member of <b>PHOS4</b> 💡
 - Video Editor of <a target="_blank" href="https://www.youtube.com/channel/UCy7577N6wWz_R8zSX4c5iPg">Luiz de Xangô</a> ⚔ 
-- Developing <b>Arkase (Akz Project)</b> 🏆
+- Developing <b>Arkase (Akz Project)</b> 🥇
 
 ### ☄ You can know more about me at.. ☄
 - 💼 <a href="https://www.linkedin.com/in/vin%C3%ADcius-oliveira-9982a419a/" target="_blank">LinkedIn</a>
