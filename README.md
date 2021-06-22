@@ -1,6 +1,6 @@
 ### Hi 👋🏾, I'm Vini 
 
-- <b>System Analysis and Development</b> at <a href="http://www.digitalschool.com.br/faculdade/" target="_blank"> Bandtec Digital School 🏢 </a> <i><b>in progress</b></i>
+- <b>System Analysis and Development <i><b>(in progress)</b></i> </b> at <a href="http://www.digitalschool.com.br/faculdade/" target="_blank"> Bandtec Digital School 🏢 </a> 
 - <b>Information Technology</b> at <a href="https://etecjardimangela.com.br/2/ " target="_blank"> Etec Jardim Ângela 💻 </a>
 - Focused in Programming 🎣
 
