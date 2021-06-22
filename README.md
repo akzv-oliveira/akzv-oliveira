@@ -1,9 +1,8 @@
 ### Hi 👋🏾, I'm Vini 
 
-- 🏢 Studying <b>System Analysis and Development</b> at <a href="http://www.digitalschool.com.br/faculdade/" target="_blank"> Bandtec Digital School </a>
-- 💻 Gratuated in IT on <a href="https://etecjardimangela.com.br/2/ " target="_blank"> Etec Jardim Ângela </a>
-- 🏕 19 years old
-- 🎣 Focused in Programming
+- <b>System Analysis and Development</b> at 🏢 <a href="http://www.digitalschool.com.br/faculdade/" target="_blank"> Bandtec Digital School </a>
+- <b>IT</b> at 💻 <a href="https://etecjardimangela.com.br/2/ " target="_blank"> Etec Jardim Ângela </a>
+- 🎣  Focused in Programming
 
 São Paulo, Brazil 🌎
 
